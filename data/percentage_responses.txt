@@ -1,0 +1,10 @@
+90-100%: Outstanding work! You nailed it with exceptional accuracy. Keep it up!
+80-90%: Great job! You're performing at a high level—just a little more and you'll be perfect!
+70-80%: Well done! You’re making strong progress. Focus on improving a few areas to reach the next level!
+60-70%: Nice effort! You're doing well, and with a bit more practice, you can boost your score even further.
+50-60%: Good attempt! You're on the right track. Review the tricky parts, and you'll improve quickly!
+40-50%: You're getting there! Take your time with the questions and keep practicing—you're closer than you think.
+30-40%: Not bad, but there's room for improvement. Focus on understanding the concepts, and you'll see better results.
+20-30%: This was a tough one, but don’t give up! Review the basics carefully, and you'll get the hang of it.
+10-20%: It seems this was challenging for you, but that’s okay! Take it step by step and keep practicing.
+0-10%: Don’t worry about the score—this is a starting point. Focus on learning from your mistakes, and you’ll improve over time.
